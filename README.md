@@ -18,9 +18,6 @@ This is my GitHub profile where you'll find some of my projects and code.
 
 
 ** You can find me on:**
-
-**(Replace with links to your website or other social media profiles)**
-
 * Website: https://noumannawaz444.github.io/Portfolio/
 
 
