@@ -1,16 +1,27 @@
-### Hi there 👋
+## Nouman Nawaz: Front-End Developer
 
-<!--
-**NoumanNawaz444/NoumanNawaz444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there!  I'm Nouman Nawaz, a Front-End Web Developer specializing in ReactJS with 2 years of experience. I'm passionate about building user-friendly and interactive web applications.
 
-Here are some ideas to get you started:
+This is my GitHub profile where you'll find some of my projects and code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I Do**
+
+* Build user interfaces and experiences using ReactJS and other web technologies (HTML, CSS, JavaScript).
+* Implement responsive design principles to ensure websites look great on all devices.
+* Write clean, maintainable, and well-documented code.
+* Collaborate effectively with designers and back-end developers.
+
+**Connect with Me**
+
+* Feel free to browse through my repositories and explore my code.
+* If you have any questions or want to collaborate on a project, don't hesitate to reach out!
+
+
+** You can find me on:**
+
+**(Replace with links to your website or other social media profiles)**
+
+* Website: https://noumannawaz444.github.io/Portfolio/
+
+
+I'm always learning and looking for new challenges. Let's build something awesome together! 
